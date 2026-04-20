@@ -1,0 +1,1 @@
+# barbearia-magnus-supabase
